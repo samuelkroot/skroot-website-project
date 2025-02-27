@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 const Post = ({votes, poster, title, description, category}) => {
     return (
-        <div>
+        <div className={`${styles['post']}`}>
             <div></div>
         </div>
     );
