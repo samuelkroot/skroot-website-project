@@ -4,4 +4,4 @@ This project is a (low-fidelity) clone of the [Satisfactory Q&A Site](https://qu
 
 API calls will be self-written in a PHP backend and hosted on Purdue servers; I will need to look into an alternative for when I graduate to maintain site functionality for portfolio purpose, but I will cross that bridge when I come to it
 
-The site itself is hosted on [GitHub Pages]()
+The site itself is hosted on [GitHub Pages](https://samuelkroot.github.io/skroot-website-project/)
